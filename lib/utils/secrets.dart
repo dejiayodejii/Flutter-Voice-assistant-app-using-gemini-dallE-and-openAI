@@ -1,0 +1,2 @@
+const openAIAPIKey = '';
+const geminiKey = '';
